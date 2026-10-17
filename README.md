@@ -7,6 +7,7 @@ Projeto para organizar e automatizar o marketing da Lírio do Vale.
 | Arquivo | O que tem |
 |---|---|
 | [`docs/plano.md`](docs/plano.md) | Os pontos da reunião organizados, ordem sugerida e perguntas em aberto |
+| [`docs/perfil-empresa.md`](docs/perfil-empresa.md) | Quem são os clientes, canais de venda e o que isso muda no marketing |
 | [`docs/glossario.md`](docs/glossario.md) | Termos de marketing explicados de forma simples |
 
 ## Status

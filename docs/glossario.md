@@ -17,3 +17,6 @@ Termos explicados de forma simples, com exemplos da Lírio do Vale. Vamos adicio
 | **ROAS** | Retorno sobre o gasto em anúncios: quanto vendeu para cada real investido. | Gastou R$ 100, vendeu R$ 500 = ROAS 5. |
 | **Público / segmentação** | Para quem o anúncio é mostrado (idade, região, interesses). | Mulheres 30–60, interesse em catolicismo, região Sudeste. |
 | **Remarketing** | Mostrar anúncio de novo para quem já visitou o site e não comprou. | Viu a imagem de Nossa Senhora e depois vê o anúncio dela no Instagram. |
+| **B2B / B2C** | B2B = empresa vendendo para empresa ou instituição. B2C = empresa vendendo para consumidor final. | Vender para uma loja ou paróquia é B2B; vender um terço para uma pessoa é B2C. |
+| **Venda assistida** | Venda em que um vendedor acompanha o cliente (telefone, WhatsApp) até fechar. | Lojista chama no WhatsApp, o vendedor monta o pedido com ele. |
+| **Rastreamento / atribuição** | Saber de onde veio cada cliente ou venda (qual anúncio, qual canal). | "Esse pedido de R$ 3.000 veio de um anúncio do Google." |
