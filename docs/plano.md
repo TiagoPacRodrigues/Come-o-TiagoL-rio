@@ -18,6 +18,28 @@ Geração de calendário
 Email marketing
 ```
 
+## Visão (o que o patrão quer no final)
+
+Com poucos comandos, ou só montando o calendário, todo o resto se organiza e anda sozinho:
+
+```
+Dados (vendas, anúncios, site)
+        │
+        ▼
+  ANÁLISE: o que está dando certo e errado
+        │
+        ▼
+  CALENDÁRIO: o que fazer, quando, em qual canal
+        │
+        ▼
+  GERAÇÃO automática: posts, anúncios, blog, e-mails
+        │
+        ▼
+  Revisão humana rápida → publicação → volta para os dados
+```
+
+**Prioridade dele:** primeiro a **análise** (o que está funcionando ou não), depois a **geração**.
+
 ## 2. Como os pontos se encaixam
 
 Os itens da reunião se dividem em três camadas. A camada de baixo sustenta as de cima.
@@ -81,17 +103,18 @@ Os itens da reunião se dividem em três camadas. A camada de baixo sustenta as 
 
 ## 4. Ordem sugerida
 
+Ajustada à prioridade do patrão (análise primeiro):
+
 | # | Frente | Por quê nessa ordem |
 |---|---|---|
-| 1 | Segundo cérebro | Base de tudo; sem ele o resto sai genérico |
-| 2 | Calendário | Organiza o resto e já ajuda no dia a dia |
-| 3 | Geração de conteúdo | Resultado rápido e visível |
+| 1 | Análise inicial + segundo cérebro (em paralelo) | A análise diz o que funciona; o segundo cérebro guarda essas descobertas e o jeito da marca |
+| 2 | Calendário | Vira o "painel de comando" que dispara o resto |
+| 3 | Geração de conteúdo e anúncios | Alimentada pela análise e pelo calendário |
 | 4 | Blog + busca | Depende de entender o problema da busca |
 | 5 | E-mail marketing | Depende de saber qual ferramenta e lista existem |
-| 6 | Criação de anúncios | Depende do segundo cérebro e envolve dinheiro |
-| 7 | Inteligência/análise | Depende de dados e acessos às plataformas |
+| 6 | Análise contínua e automática | Fecha o ciclo: mede o que foi gerado e ajusta o próximo calendário |
 
-*Essa ordem é sugestão: se o patrão tiver uma dor mais urgente, a gente adianta.*
+**Como começar a análise sem integração nenhuma:** exportar relatórios (planilhas) do Meta Ads, Google Ads, da loja e do Instagram. Analisamos isso primeiro; as conexões automáticas vêm depois.
 
 ## 5. Perguntas em aberto
 
