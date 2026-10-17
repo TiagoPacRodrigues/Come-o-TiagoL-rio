@@ -14,6 +14,23 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 
 ## Anúncios
 - Anunciam hoje no **Meta** (Instagram/Facebook) e no **Google**.
+- **Quem cuida:** o patrão.
+- **Verba mensal:** não sabemos ainda.
+
+## Equipe de marketing
+| Pessoa | Papel |
+|---|---|
+| Patrão | Dono; cuida dos anúncios |
+| Monique | Esposa do patrão; equipe de marketing |
+| Dalva | Coordenadora de marketing |
+| Clara | Assistente de marketing |
+| Priscila | Artes (contratada por serviço) |
+
+## Onde ficam clientes e pedidos
+- Sistema de gestão (ERP), plataforma do site **e** planilhas. Os dados estão espalhados em três lugares.
+
+## Origem do cliente
+- Não sabemos se alguém pergunta ou anota como o cliente conheceu a empresa.
 
 ## Dores percebidas
 - Ainda não identificadas. O patrão não citou nenhuma específica. A análise inicial vai mostrar.
@@ -23,3 +40,8 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 - **Medir é o maior desafio.** Se a venda fecha no WhatsApp, o Meta e o Google não sabem que ela aconteceu. Precisamos de um jeito de ligar "veio do anúncio" com "comprou".
 - **O calendário é mais antecipado.** Lojista compra para revender, então precisa receber o produto antes do consumidor final procurar. Para o Natal, o lojista decide em agosto ou setembro. Paróquias planejam catequese, Primeira Comunhão e Crisma com meses de antecedência.
 - **Relacionamento pesa mais que impulso.** Cliente B2B compra várias vezes. E-mail, WhatsApp e um bom cadastro de clientes valem muito.
+
+## Perguntar ao patrão
+- [ ] Quanto investe por mês em Meta e em Google?
+- [ ] A equipe pergunta ou anota como o cliente conheceu a Lírio do Vale?
+- [ ] Pode dar acesso de leitura (só ver, sem mexer) aos painéis do Meta e do Google?
