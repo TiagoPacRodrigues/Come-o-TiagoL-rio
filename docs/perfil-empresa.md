@@ -26,8 +26,17 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 | Clara | Assistente de marketing |
 | Priscila | Artes (contratada por serviço) |
 
+## Quem conduz este projeto
+- Pessoa de **TI**, montando as automações e aprendendo marketing ao longo do caminho.
+
+## Tarefas que mais tomam tempo da equipe
+- Pensar e escrever posts
+- Fazer as artes
+- Montar relatórios
+
 ## Onde ficam clientes e pedidos
 - Sistema de gestão (ERP), plataforma do site **e** planilhas. Os dados estão espalhados em três lugares.
+- Plataforma do site: **a descobrir**. ERP: **a descobrir**.
 
 ## Origem do cliente
 - Não sabemos se alguém pergunta ou anota como o cliente conheceu a empresa.
@@ -44,4 +53,5 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 ## Perguntar ao patrão
 - [ ] Quanto investe por mês em Meta e em Google?
 - [ ] A equipe pergunta ou anota como o cliente conheceu a Lírio do Vale?
+- [ ] Qual é o ERP (sistema de gestão)?
 - [ ] Pode dar acesso de leitura (só ver, sem mexer) aos painéis do Meta e do Google?
