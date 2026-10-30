@@ -41,7 +41,8 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 
 ## Onde ficam clientes e pedidos
 - Sistema de gestão (ERP), plataforma do site **e** planilhas. Os dados estão espalhados em três lugares.
-- Plataforma do site: **a descobrir**. ERP: **a descobrir**.
+- Plataforma do site: **Climba / IDCommerce**. Blog: **WordPress**. ERP: **a descobrir**.
+- Ferramentas detectadas no site: Google Tag Manager, Google Analytics 4, Google Ads e RD Station (ver `analise-site.md`).
 
 ## Origem do cliente
 - Não sabemos se alguém pergunta ou anota como o cliente conheceu a empresa.

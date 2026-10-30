@@ -20,3 +20,6 @@ Termos explicados de forma simples, com exemplos da Lírio do Vale. Vamos adicio
 | **B2B / B2C** | B2B = empresa vendendo para empresa ou instituição. B2C = empresa vendendo para consumidor final. | Vender para uma loja ou paróquia é B2B; vender um terço para uma pessoa é B2C. |
 | **Venda assistida** | Venda em que um vendedor acompanha o cliente (telefone, WhatsApp) até fechar. | Lojista chama no WhatsApp, o vendedor monta o pedido com ele. |
 | **Rastreamento / atribuição** | Saber de onde veio cada cliente ou venda (qual anúncio, qual canal). | "Esse pedido de R$ 3.000 veio de um anúncio do Google." |
+| **Pixel / tag** | Pedacinho de código no site que avisa a plataforma de anúncios (Meta, Google) quem visitou e o que fez. | Sem o pixel do Meta, o Instagram não sabe que um lojista visitou o site e não consegue mostrar anúncio de novo para ele. |
+| **Google Tag Manager** | Ferramenta que guarda todos os pixels num lugar só, para não precisar mexer no código do site. | A equipe adiciona o pixel do Meta pelo Tag Manager, sem chamar o programador. |
+| **Link interno** | Link de uma página do próprio site para outra. | Artigo do blog sobre São Bento com link para os terços de São Bento da loja. |
