@@ -2,9 +2,14 @@
 
 Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 
+## Quem é
+- **Lírio do Vale Distribuidora de Artigos Religiosos**: foco **100% atacado**.
+- Tem **marca própria** com o mesmo nome (Lírio do Vale).
+- Clientes lojistas revendem os produtos com a marca, inclusive em marketplaces. Ex.: o cliente **Artigos Gil e Jo** vende no Magalu com a marca "Lírio do Vale". A Lírio do Vale não vende diretamente em marketplace.
+
 ## Clientes
 - **Principais:** lojas/revendedores (atacado) e igrejas/paróquias.
-- **Tipo de negócio:** majoritariamente **B2B** (empresa vendendo para empresa/instituição).
+- **Tipo de negócio:** **B2B** (empresa vendendo para empresa/instituição).
 
 ## Canais de venda
 - Site próprio: https://www.lvartigosreligiosos.com.br/
@@ -48,11 +53,11 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 - **O objetivo do anúncio é gerar contato, não só venda no site.** Boa parte das vendas fecha por WhatsApp, telefone ou vendedor. Então o anúncio "funciona" quando traz um lojista ou paróquia que vira conversa e depois pedido.
 - **Medir é o maior desafio.** Se a venda fecha no WhatsApp, o Meta e o Google não sabem que ela aconteceu. Precisamos de um jeito de ligar "veio do anúncio" com "comprou".
 - **O calendário é mais antecipado.** Lojista compra para revender, então precisa receber o produto antes do consumidor final procurar. Para o Natal, o lojista decide em agosto ou setembro. Paróquias planejam catequese, Primeira Comunhão e Crisma com meses de antecedência.
+- **A marca aparece para o consumidor final pelas mãos dos lojistas** (ex.: no Magalu). Isso abre uma oportunidade futura: dar ao lojista fotos, descrições e posts prontos para ele vender mais, o que vira mais pedido no atacado.
 - **Relacionamento pesa mais que impulso.** Cliente B2B compra várias vezes. E-mail, WhatsApp e um bom cadastro de clientes valem muito.
 
 ## Perguntar ao patrão
 - [ ] Quanto investe por mês em Meta e em Google?
 - [ ] A equipe pergunta ou anota como o cliente conheceu a Lírio do Vale?
 - [ ] Qual é o ERP (sistema de gestão)?
-- [ ] Produtos com a marca "Lírio do Vale" aparecem à venda no Magalu e em comparadores de preço (ex.: terços Padre Pio e Santa Rita). São vocês que vendem lá, ou lojistas revendendo? Vocês fabricam ou têm marca própria?
 - [ ] Pode dar acesso de leitura (só ver, sem mexer) aos painéis do Meta e do Google?
