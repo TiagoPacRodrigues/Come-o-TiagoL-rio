@@ -7,7 +7,7 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 - **Tipo de negócio:** majoritariamente **B2B** (empresa vendendo para empresa/instituição).
 
 ## Canais de venda
-- Site próprio
+- Site próprio: https://www.lvartigosreligiosos.com.br/
 - WhatsApp / Instagram
 - Loja física
 - Ligação e venda assistida (vendedor acompanha o cliente)
@@ -54,4 +54,5 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 - [ ] Quanto investe por mês em Meta e em Google?
 - [ ] A equipe pergunta ou anota como o cliente conheceu a Lírio do Vale?
 - [ ] Qual é o ERP (sistema de gestão)?
+- [ ] Produtos com a marca "Lírio do Vale" aparecem à venda no Magalu e em comparadores de preço (ex.: terços Padre Pio e Santa Rita). São vocês que vendem lá, ou lojistas revendendo? Vocês fabricam ou têm marca própria?
 - [ ] Pode dar acesso de leitura (só ver, sem mexer) aos painéis do Meta e do Google?
