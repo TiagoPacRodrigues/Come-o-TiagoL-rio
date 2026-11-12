@@ -31,3 +31,9 @@ Termos explicados de forma simples, com exemplos da Lírio do Vale. Vamos adicio
 | **Redirecionamento 301** | Aviso permanente de "este endereço mudou para outro"; leva o visitante e a força no Google para a página nova. | Post antigo de Natal 2019 redireciona para o guia de Natal atualizado. |
 | **Post pilar** | Guia grande e completo sobre um tema, que os posts menores linkam. | "Guia completo para abrir uma loja de artigos religiosos". |
 | **Noindex** | Instrução para o Google não mostrar uma página nos resultados. | Páginas de tag com 1 post só. |
+| **Palavra-chave negativa** | Termo para o qual o anúncio do Google **não** deve aparecer. | Negativar "barato", "unidade" e "varejo" para não pagar clique de consumidor final. |
+| **Performance Max** | Tipo de campanha do Google que usa o catálogo da loja e aparece em pesquisa, YouTube, Gmail e sites. | Anúncios do Terço de Cristal em vídeo e display. |
+| **Biblioteca de Anúncios** | Página pública da Meta que mostra os anúncios ativos de qualquer empresa. | Lá estão os 11 anúncios da Lírio iniciados em 08/11/2026. |
+| **Objetivo da campanha** | O que você pede para a Meta ou o Google otimizarem: cliques, mensagens, cadastros, vendas. | Para o atacado, "mensagens no WhatsApp" costuma ser melhor que "tráfego". |
+| **Taxa de engajamento** | (curtidas + comentários + salvamentos + compartilhamentos) ÷ alcance. | 30 interações em 1.000 pessoas alcançadas = 3%. |
+| **UTM** | Etiqueta no fim do link que diz ao Analytics de onde veio a visita. | `?utm_source=meta&utm_campaign=natal-lojistas`. |
