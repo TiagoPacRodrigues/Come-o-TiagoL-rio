@@ -12,6 +12,8 @@ Projeto para organizar e automatizar o marketing da Lírio do Vale.
 | [`docs/plano.md`](docs/plano.md) | Os pontos da reunião organizados, ordem sugerida e perguntas em aberto |
 | [`docs/perfil-empresa.md`](docs/perfil-empresa.md) | Quem são os clientes, canais de venda e o que isso muda no marketing |
 | [`docs/analise-site.md`](docs/analise-site.md) | Análise do site, do blog e das ferramentas de rastreamento |
+| [`docs/analise-blog.md`](docs/analise-blog.md) | Análise completa do blog: o que está certo, o que está quebrado, conteúdo e plano de ação |
+| [`docs/blog-correcoes.md`](docs/blog-correcoes.md) | Checklist de links, imagens e páginas do blog para corrigir |
 | [`docs/glossario.md`](docs/glossario.md) | Termos de marketing explicados de forma simples |
 
 ## Status

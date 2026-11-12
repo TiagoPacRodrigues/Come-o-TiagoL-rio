@@ -23,3 +23,11 @@ Termos explicados de forma simples, com exemplos da Lírio do Vale. Vamos adicio
 | **Pixel / tag** | Pedacinho de código no site que avisa a plataforma de anúncios (Meta, Google) quem visitou e o que fez. | Sem o pixel do Meta, o Instagram não sabe que um lojista visitou o site e não consegue mostrar anúncio de novo para ele. |
 | **Google Tag Manager** | Ferramenta que guarda todos os pixels num lugar só, para não precisar mexer no código do site. | A equipe adiciona o pixel do Meta pelo Tag Manager, sem chamar o programador. |
 | **Link interno** | Link de uma página do próprio site para outra. | Artigo do blog sobre São Bento com link para os terços de São Bento da loja. |
+| **Marketing de conteúdo** | Atrair clientes ensinando algo útil, em vez de só anunciar. | Post "como precificar produtos na loja católica" atrai lojistas, que depois compram da Lírio. |
+| **Lead** | Contato de alguém interessado (nome, e-mail, WhatsApp), que ainda não comprou. | Lojista que baixou o e-book de Natal deixando o e-mail. |
+| **Certificado SSL** | O "cadeado" do navegador; garante que o site é seguro. Vencido, o navegador mostra um alerta. | `oferta.lvartigosreligiosos.com.br` com certificado vencido. |
+| **Texto alternativo (alt)** | Descrição escrita de uma imagem; o Google usa para entender a foto. | "Terço de São Bento em madeira marrom". |
+| **Canibalização** | Vários posts sobre o mesmo assunto disputando o mesmo lugar no Google; todos perdem força. | 6 posts diferentes sobre "vender mais no Natal". |
+| **Redirecionamento 301** | Aviso permanente de "este endereço mudou para outro"; leva o visitante e a força no Google para a página nova. | Post antigo de Natal 2019 redireciona para o guia de Natal atualizado. |
+| **Post pilar** | Guia grande e completo sobre um tema, que os posts menores linkam. | "Guia completo para abrir uma loja de artigos religiosos". |
+| **Noindex** | Instrução para o Google não mostrar uma página nos resultados. | Páginas de tag com 1 post só. |

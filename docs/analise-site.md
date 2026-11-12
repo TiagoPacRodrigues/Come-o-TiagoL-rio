@@ -27,7 +27,7 @@ Análise feita "de fora", acessando o site como um visitante. Sem acesso a pain�
 
 ## Achados principais
 1. **As buscas internas funcionam.** Então "consertar as ferramentas de busca" provavelmente é sobre **aparecer no Google (SEO)**, ou é algo que só aparece no painel. Precisa confirmar com o patrão.
-2. **O blog não leva para a loja.** O artigo mais recente analisado tem **zero links para produtos**. O leitor aprende, mas não tem um caminho fácil para comprar. É uma correção simples e de alto impacto.
+2. ~~O blog não leva para a loja.~~ **Corrigido em 12/11/2026:** a primeira checagem estava errada. A análise completa mostrou que 117 de 135 posts têm links para a loja. Os problemas reais do blog estão em [`analise-blog.md`](analise-blog.md).
 3. **Dois Google Analytics diferentes.** Pode estar duplicando dados ou separando a medição em dois lugares. Precisa ver qual é o oficial.
 4. **RD Station já está instalado.** Provavelmente já é a ferramenta de e-mail marketing, ou foi um dia. Precisa confirmar se ainda usam.
 5. **Pixel do Meta não confirmado.** Sem ele, o Meta não sabe quem visitou o site, e o remarketing e a otimização dos anúncios ficam cegos.
@@ -38,4 +38,4 @@ Análise feita "de fora", acessando o site como um visitante. Sem acesso a pain�
 - [ ] Acesso de leitura ao Google Analytics, ao Google Ads, ao Gerenciador de Anúncios do Meta e ao RD Station
 - [ ] Ver no Tag Manager se o Pixel do Meta está lá
 - [ ] Atualizar o WordPress e os plugins do blog (fazer backup antes)
-- [ ] Padronizar: todo artigo do blog termina com links para os produtos citados
+- [ ] Ver plano de ação do blog em `analise-blog.md`
