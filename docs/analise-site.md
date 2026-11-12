@@ -20,7 +20,7 @@ Análise feita "de fora", acessando o site como um visitante. Sem acesso a pain�
 
 ## Blog — https://www.blog.lvartigosreligiosos.com.br/
 - **Plataforma:** WordPress 6.4, versão do fim de 2023 e **desatualizada**, com o plugin de SEO Yoast.
-- **Volume:** 135 artigos. Publica de 2 a 4 por mês, e o último é de 29/09/2026.
+- **Volume:** 135 artigos, publicados de forma irregular (ver `analise-blog.md`). O último é de 29/09/2026.
 - **Temas:** bons e certos para o atacado: como revender, datas da Igreja, estoque, Black Friday, loja de paróquia, devoções.
 - **Busca interna do blog:** funcionando ("terco" retornou artigos sobre terço).
 - **SEO básico do artigo:** título, descrição e H1 corretos, além de dados estruturados.
