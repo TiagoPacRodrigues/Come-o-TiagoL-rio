@@ -4,6 +4,8 @@ subtitulo: O que foi possível verificar, o que falta para a análise completa e
 plataforma: @lv.artigosreligiosos · facebook.com/lvartigosreligiosos
 ---
 
+> 📌 **Atualização de 13/11/2026:** a varredura completa foi feita pelo Claude no Chrome, na conta do Tiago. As análises com números estão nos relatórios **5 (Instagram)** e **6 (Facebook)**. Este documento continua valendo como **banco de ideias de conteúdo** e roteiro de análise.
+
 # 1. Sendo sincero: o que aconteceu nesta análise
 
 Tentei abrir o **Instagram (@lv.artigosreligiosos)** e a **página do Facebook (lvartigosreligiosos)** como um visitante comum. **As duas plataformas exigiram login** antes de mostrar qualquer post, número de seguidores ou comentário. Isso é uma regra da Meta para visitantes sem conta, e não algo errado na página da Lírio.

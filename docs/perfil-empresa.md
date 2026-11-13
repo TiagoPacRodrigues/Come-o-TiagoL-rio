@@ -7,6 +7,12 @@ Respostas coletadas nas conversas. Vai sendo completado aos poucos.
 - Tem **marca própria** com o mesmo nome (Lírio do Vale).
 - Clientes lojistas revendem os produtos com a marca, inclusive em marketplaces. Ex.: o cliente **Artigos Gil e Jo** vende no Magalu com a marca "Lírio do Vale". A Lírio do Vale não vende diretamente em marketplace.
 
+- **Fundação:** 21/10/2015 (comemorou 11 anos em 21/10/2026), em Cachoeira Paulista/SP. Empresa de família católica.
+- **Sócios:** Maurício (aparece nos vídeos, cuida dos anúncios) e Monique (esposa).
+- **Endereço novo (desde nov/2026):** Av. Sara Kubitschek, **671**, Centro, Cachoeira Paulista/SP. O site e o Facebook ainda mostram o 685 antigo.
+- **Campanhas próprias do ano:** Semana do Cliente (setembro, até 70% OFF), Black Lírio (3–6/11, até 80% OFF, com "Live de R$ 1"), série "11 anos" no YouTube.
+- **Redes:** Instagram @lv.artigosreligiosos (31,5 mil seguidores), Facebook (43 mil), YouTube @liriodovaleartigosreligiosos. Ver `relatorios/5-instagram.md` e `relatorios/6-facebook.md`.
+
 ## Clientes
 - **Principais:** lojas/revendedores (atacado) e igrejas/paróquias.
 - **Tipo de negócio:** **B2B** (empresa vendendo para empresa/instituição).
