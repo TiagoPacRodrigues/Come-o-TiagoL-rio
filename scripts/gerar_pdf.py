@@ -6,7 +6,7 @@ O PDF sai ao lado do .md. Requer pandoc e Chromium.
 """
 import html, os, re, subprocess, sys, tempfile, datetime
 
-CHROME = os.environ.get("CHROME", "/opt/pw-browsers/chromium-1194/chrome-linux/chrome")
+CHROME = os.environ.get("CHROME", "/opt/pw-browsers/chromium")
 MESES = "janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split()
 
 CSS = """
